@@ -1,2 +1,2 @@
 # python-and-cyber
-Worcksheets fromw Cyber Resillience Python course
+Worksheets fromwCyber Resilience Python course
